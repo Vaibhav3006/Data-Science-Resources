@@ -1,3 +1,3 @@
-""" Kaggle notebook for handling missing values """
+""" Link to a great Kaggle notebook for handling missing values """
 
 https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python
